@@ -90,6 +90,8 @@ class Duck extends FlyingAnimal {
 ___
 ## 5. Video Shop refactor
 
+See src/ and tests/ folders
+
 * Add namespacing
 * Move properties to top of class 
 * Break out getStatement god-function into smaller methods
